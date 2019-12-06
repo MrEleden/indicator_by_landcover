@@ -12,3 +12,8 @@ http://maps.elie.ucl.ac.be/CCI/viewer/download.php
 2. GDP data  
 This can be downloaded from https://drive.google.com/drive/u/0/folders/1bRV0ufLdLzeskhWjgSOyoyDjCmNd_uPR
 , named "Download-GDPcurrent-NCU-countries.xls".
+
+
+## Prepare nation-wise land cover maps
+Run `python extract_lcmap_by_nation.py <country_name>`.  
+`<country_name>` should be one of country names in `country_name.txt`.
