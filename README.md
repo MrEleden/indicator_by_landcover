@@ -11,7 +11,7 @@ In this web site, click `by year: 24 tif files, 1 band` and `Legend (csv)` to do
 
 
 2. GDP data  
-This can be downloaded from https://drive.google.com/drive/u/0/folders/1bRV0ufLdLzeskhWjgSOyoyDjCmNd_uPR
+This can be downloaded from [Google Drive](https://drive.google.com/drive/u/0/folders/1bRV0ufLdLzeskhWjgSOyoyDjCmNd_uPR)
 , named "Download-GDPcurrent-NCU-countries.xls".
 
 
@@ -25,4 +25,4 @@ This will create the directory `./nation_lcmaps` and save a land cover map of a 
 `gdal` is required.
 
 ## Others
-Some graphs on https://synspective.docbase.io/posts/979916 or https://synspective.slack.com/archives/CPSFZ39EY/p1574954671000700 can be reproduced by following [lc.ipynb](https://github.com/synspective/indicator_by_landcover/blob/master/lc.ipynb).
+The graphs on the initial check (which can be found on [DocBase](https://synspective.docbase.io/posts/979916) or [Slack](https://synspective.slack.com/archives/CPSFZ39EY/p1574954671000700) can be reproduced by following [lc.ipynb](https://github.com/synspective/indicator_by_landcover/blob/master/lc.ipynb).
