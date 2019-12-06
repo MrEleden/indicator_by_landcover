@@ -25,4 +25,4 @@ This will create the directory `./nation_lcmaps` and save a land cover map of a 
 `gdal` is required.
 
 ## Others
-Some graphs on https://synspective.docbase.io/posts/979916 or https://synspective.slack.com/archives/CPSFZ39EY/p1574954671000700 can be reproduced by following `lc.ipynb`.
+Some graphs on https://synspective.docbase.io/posts/979916 or https://synspective.slack.com/archives/CPSFZ39EY/p1574954671000700 can be reproduced by following [lc.ipynb](https://github.com/synspective/indicator_by_landcover/blob/master/lc.ipynb).
