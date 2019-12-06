@@ -23,3 +23,6 @@ This will create the directory `./nation_lcmaps` and save a land cover map of a 
 
 ## Dependency
 `gdal` is required.
+
+## Others
+Some graphs on https://synspective.docbase.io/posts/979916 or https://synspective.slack.com/archives/CPSFZ39EY/p1574954671000700 can be reproduced by following `lc.ipynb`.
