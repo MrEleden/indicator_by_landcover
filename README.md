@@ -7,7 +7,9 @@ You can download all the necessary data as described below. The downloaded data 
 The land cover maps are based on the existing dataset available on the link below:
 http://maps.elie.ucl.ac.be/CCI/viewer/download.php  
 Each time you visit this site, you should enter your name, organization and e-mail address (dummies are okay).  
-In this web site, click `by year: 24 tif files, 1 band` and `Legend (csv)` to download the global land cover map and the legend, respectively. The global land cover map covers from 1992 to 2015 and a channel of this image file corresponds to one of the years.
+In this web site, click `by year: 24 tif files, 1 band` and `Legend (csv)` to download the global land cover map and the legend, respectively. If you are redirected to ftp server page, download `ESACCI-LC-L4-LCCS-Map-300m-P1Y-1992_2015-v2.0.7.zip`.  
+The global land cover map covers from 1992 to 2015 and a channel of this image file corresponds to one of the years.  
+The file name of the downloaded data are 
 
 
 2. GDP data  
