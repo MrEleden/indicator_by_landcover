@@ -17,7 +17,7 @@ This can be downloaded from [Google Drive](https://drive.google.com/drive/u/0/fo
 
 
 ## Prepare nation-wise land cover maps
-Run `python extract_lcmap_by_nation.py <country_name>`.  
+Run `python extract_lcmap_by_nation.py -c <country_name>`.  
 `<country_name>` should be one of country names in `country_name.txt`.  
 This will create the directory `./nation_lcmaps` and save a land cover map of a nation you chose in that directory.
 
